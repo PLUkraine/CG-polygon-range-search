@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ProblemRenderer.qml</file>
+        <file>InputDialog.qml</file>
+    </qresource>
+    <qresource prefix="/shaders">
+        <file>s.frag</file>
+        <file>s.vert</file>
+    </qresource>
+</RCC>
