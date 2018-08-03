@@ -11,4 +11,5 @@ The main idea is to preprocess the polygon P. We split it using some point insid
 belongs to (by polar angle). Than we need to check if the point is inside of the triangle formed by the sector and side of the polygon.
 
 ## Screenshots
-Coming soon...
+![Screen 1](https://preview.ibb.co/cZtnAe/photo5413768648855759123.jpg)
+![Screen 2](https://preview.ibb.co/bRziiz/photo5413768648855759124.jpg)
